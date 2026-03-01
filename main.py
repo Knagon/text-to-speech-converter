@@ -36,7 +36,6 @@ def start_convert():
         return
     words = len(text.split())
     time_left = max(1, words / 3)
-    #steps_left[0] = int(time_left * 10)
 
     l4_progress.grid(row=7,column=0,pady=5)
     l5_progress2.grid(row=8,column=0,pady=5)
@@ -64,7 +63,6 @@ app.title("Konwerter XMZ")
 app.columnconfigure(0, weight=1)
 
 tts_done = [False]
-#steps_left = [50]
 
 list_voices = ["pl-PL-MarekNeural", "pl-PL-ZofiaNeural", "en-US-MichelleNeural", "en-US-RogerNeural"]
 
