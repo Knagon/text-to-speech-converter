@@ -34,28 +34,28 @@ Projekt prezentuje umiejętność pracy z GUI, programowaniem asynchronicznym, w
 
 ### Główne okno aplikacji
 
-![GUI](images/GUI.png)
+![GUI](images/GUI.PNG)
 *Widok głównego interfejsu aplikacji: pole tekstowe do wprowadzania treści, wybór głosu syntezy mowy, przycisk uruchamiający konwersję oraz przycisk do wyjścia z programu.*
 
 
 
 ### Odtwarzanie przekonwertowanego pliku
 
-![odtwarzanie przekonwertowanego dźwięku w domyślnie ustawionym odtwarzaczu](images/odtwarzacz.png)
+![odtwarzanie przekonwertowanego dźwięku w domyślnie ustawionym odtwarzaczu](images/odtwarzacz.PNG)
 *Widok po wygenerowaniu pliku audio – automatyczne otwarcie domyślnego odtwarzacza po zakończeniu konwersji.*
 
 
 
 ### Pasek postępu i komunikat o czasie
 
-![Widok GUI w trakcie przetwarzania teksty na mowę](images/w_trakcie.png)
+![Widok GUI w trakcie przetwarzania teksty na mowę](images/w_trakcie.PNG)
 *Interfejs podczas działania konwersji: aktywny pasek postępu oraz komunikat o przewidywanym czasie generowania audio.*
 
 
 
 ### Komunikat o zakończeniu pracy
 
-![Widok po zakończeniu przetwarzania](images/po_zakonczeniu.png)
+![Widok po zakończeniu przetwarzania](images/po_zakonczeniu.PNG)
 *Ekran po zakończeniu konwersji: zapełniony pasek postępu oraz komunikat informujący o pomyślnym zakończeniu procesu.*
 
 
