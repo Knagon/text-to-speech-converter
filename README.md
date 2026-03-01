@@ -1,36 +1,3 @@
-Poniżej masz **pełną ocenę projektu** oraz **profesjonalny README.md** w takim samym stylu jak poprzednie (ML + Turtle Crossing).  
-Możesz wkleić go 1:1 do GitHuba.
-
----
-
-# ✔️ Czy projekt nadaje się do portfolio?
-
-**Tak — bardzo.**
-
-To jest projekt:
-
-- z GUI (tkinter + ttkbootstrap),
-- z realną funkcjonalnością (Text‑To‑Speech),
-- wykorzystujący **asynchroniczność (asyncio)**,
-- korzystający z **wielowątkowości (threading)**,
-- używający zewnętrznej biblioteki **edge‑tts** (Microsoft Azure TTS),
-- z paskiem postępu i dynamicznym UI,
-- z obsługą zdarzeń i logiką czasu.
-
-To wygląda **dużo bardziej profesjonalnie** niż typowe projekty początkujących.
-
-Nadaje się idealnie jako projekt portfolio, szczególnie w kategorii:
-
-**„Python Desktop App – Text‑to‑Speech Converter”**
-
----
-
-# 📄 GOTOWY README.md (profesjonalny, bez emotek, w stylu poprzednich)
-
-Wklej poniższy tekst do pliku `README.md`.
-
----
-
 ## Konwerter tekstu na mowę (Python + TTS)
 
 Aplikacja desktopowa napisana w Pythonie, wykorzystująca bibliotekę **edge‑tts** do konwersji tekstu na mowę z użyciem neuralnych głosów Microsoft Azure. Program posiada graficzny interfejs użytkownika oparty na **tkinter + ttkbootstrap**, obsługuje wielowątkowość oraz prezentuje postęp działania w czasie rzeczywistym.
@@ -72,19 +39,21 @@ Projekt prezentuje umiejętność pracy z GUI, programowaniem asynchronicznym, w
 
 
 
-### Pasek postępu i komunikat o czasie
+### Odtwarzanie przekonwertowanego pliku
 
 ![odtwarzanie przekonwertowanego dźwięku w domyślnie ustawionym odtwarzaczu](images/odtwarzacz.png)
 *Widok po wygenerowaniu pliku audio – automatyczne otwarcie domyślnego odtwarzacza po zakończeniu konwersji.*
 
 
 
+### Pasek postępu i komunikat o czasie
+
 ![Widok GUI w trakcie przetwarzania teksty na mowę](images/w_trakcie.png)
 *Interfejs podczas działania konwersji: aktywny pasek postępu oraz komunikat o przewidywanym czasie generowania audio.*
 
 
 
-### Pasek postępu i komunikat o czasie
+### Komunikat o zakończeniu pracy
 
 ![Widok po zakończeniu przetwarzania](images/po_zakonczeniu.png)
 *Ekran po zakończeniu konwersji: zapełniony pasek postępu oraz komunikat informujący o pomyślnym zakończeniu procesu.*
